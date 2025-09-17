@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NateTheUnavailable/CSE341-Nathaniel/issues"
   },
-  "homepage": "https://github.com/NateTheUnavailable/CSE341-Nathaniel#readme"
+  "homepage": "https://github.com/NateTheUnavailable/CSE341-Nathaniel#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
