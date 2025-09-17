@@ -1,7 +1,7 @@
 const coolfunction = ((req, res, next) => {
-  res.json('awesome person');
+  res.json('Nathaniel Gardner');
 });
 const coolperson = ((req, res, next) => {
-  res.json('me');
+  res.json('Andrew Gardner');
 });
 module.exports = {coolfunction, coolperson}
